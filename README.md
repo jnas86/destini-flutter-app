@@ -1,16 +1,48 @@
-# destini
+# Destini Flutter App
 
-A new Flutter project.
+A simple Flutter story game maker based on user's decisions.
 
-## Getting Started
+## Table of contents
+* [Quizzler Flutter App (Project title)](#destini-app)
+* [App info](#app-info)
+* [App Example - Requirements](#app-example-requirements)
+* [Technologies](#technologies)
+* [Attributes](#attributes)
+* [Further changes](#future-changes)
 
-This project is a starting point for a Flutter application.
+# Destini App
+Simple Flutter application developed in Android Studio,a basic flow of choices that the user makes,
+and builds a simple story.
 
-A few resources to get you started if this is your first Flutter project:
+## App info
+Some useful information about the application:
+* It is a programming exercise into a Udemy course ("# [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)")
+* Upon end it user can restart the game
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Example-Requirements
+* A brief example of what the user will see and what he has to implement
+  can be found by running the application and it is demonstrated below:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/images/example.gif)
+
+## Technologies
+Project is created with:
+* Android Studio Iguana | 2023.2.1
+    * Runtime version: 17.0.9+0--11185874 amd64
+    *  Non-Bundled Plugins:
+        * Dart (232.10286)
+        * io.flutter (78.0.2)
+* Flutter version: 3.19.0
+* Dart version: 3.3.0
+* Emulator: Android Nexus 6 Api 28 (Pie)
+
+## Attributes
+* Logo image from: https://www.flaticon.com/free-icon/decision-making_2449825?term=decision+making&page=1&position=60&origin=tag&related_id=2449825
+
+## Future changes
+* Convert text to image story
+
+Hope you enjoy it 🧡
+
+
+
