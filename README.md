@@ -27,11 +27,11 @@ Some useful information about the application:
 
 ## Technologies
 Project is created with:
-* Android Studio Iguana | 2023.2.1
+* Android Studio Iguana | 2023.2.1 Patch 1
     * Runtime version: 17.0.9+0--11185874 amd64
     *  Non-Bundled Plugins:
-        * Dart (232.10286)
-        * io.flutter (78.0.2)
+        * Dart (232.103305)
+        * io.flutter (78.4.1)
 * Flutter version: 3.19.0
 * Dart version: 3.3.0
 * Emulator: Android Nexus 6 Api 28 (Pie)
